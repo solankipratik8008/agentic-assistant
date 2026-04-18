@@ -137,3 +137,5 @@ Temporary Items
 .apdisk
 
 *.xcscheme
+*.xcuserstate
+xcuserdata/
