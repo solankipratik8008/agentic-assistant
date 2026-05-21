@@ -28,8 +28,7 @@ API keys are securely handled using environment variables and are not stored in 
    - WEATHER_API_KEY
 3. Run the app
 
-## 📸 Screenshots
-(Add screenshots here)
+
 
 ---
 
