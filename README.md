@@ -1,16 +1,16 @@
-# 🤖 Agentic Personal Assistant (iOS)
+#  Agentic Personal Assistant (iOS)
 
 An AI-powered iOS assistant built with SwiftUI and MVVM architecture.  
 This app can understand user intent and perform tasks like reminders, weather lookup, and navigation.
 
-## 🚀 Features
+##  Features
 - 💬 Chat-based interface (Claude API)
 - 🌦️ Weather integration
 - ⏰ Reminder scheduling
 - 📍 Location-based search (MapKit)
 - 🧠 Intent detection system
 
-## 🛠 Tech Stack
+##  Tech Stack
 - SwiftUI
 - MVVM Architecture
 - Core Location
@@ -18,10 +18,10 @@ This app can understand user intent and perform tasks like reminders, weather lo
 - OpenWeather API
 - Claude API
 
-## 🔐 Security
+##  Security
 API keys are securely handled using environment variables and are not stored in the repository.
 
-## 📱 Setup
+##  Setup
 1. Clone the repo
 2. Add environment variables in Xcode:
    - CLAUDE_API_KEY
@@ -32,4 +32,4 @@ API keys are securely handled using environment variables and are not stored in 
 
 ---
 
-⭐ Built as a portfolio project to demonstrate real-world iOS development skills.
+ Built as a portfolio project to demonstrate real-world iOS development skills.
